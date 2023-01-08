@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e695e855-7311-4e1d-a3c9-7661a79902a8" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2FFoRmKw4vvUeIn0B2tqNiuOcJl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Usuario/IdeaProjects/test&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RunManager" selected="TestNG.C:/Users/Usuario/IdeaProjects/test/src/book-flight-module.xml">
+    <configuration name="BookFlightTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumdocker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.newtours.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.newtours.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.newtours.tests.BookFlightTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Usuario/IdeaProjects/test/src/book-flight-module.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumdocker" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/book-flight-module.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Usuario/IdeaProjects/test/src/search-module.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumdocker" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/search-module.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Usuario/IdeaProjects/test/src/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumdocker" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumdocker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.searchmodule.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.searchmodule.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.searchmodule.tests.SearchTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Usuario/IdeaProjects/test/src/book-flight-module.xml" />
+        <item itemvalue="TestNG.C:/Users/Usuario/IdeaProjects/test/src/search-module.xml" />
+        <item itemvalue="TestNG.BookFlightTest" />
+        <item itemvalue="TestNG.SearchTest" />
+        <item itemvalue="TestNG.C:/Users/Usuario/IdeaProjects/test/src/testng.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e695e855-7311-4e1d-a3c9-7661a79902a8" name="Changes" comment="" />
+      <created>1664097192839</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664097192839</updated>
+      <workItem from="1664097192848" duration="4944000" />
+      <workItem from="1664699960171" duration="1222000" />
+      <workItem from="1664701314212" duration="8691000" />
+      <workItem from="1665305146457" duration="1864000" />
+      <workItem from="1665307456952" duration="704000" />
+      <workItem from="1665573267046" duration="6502000" />
+      <workItem from="1665910145136" duration="4303000" />
+      <workItem from="1666521542723" duration="3799000" />
+      <workItem from="1667206694153" duration="10000" />
+      <workItem from="1667207418761" duration="11000" />
+      <workItem from="1667208897134" duration="2762000" />
+      <workItem from="1667320470544" duration="3991000" />
+      <workItem from="1667728119664" duration="5287000" />
+      <workItem from="1667994965978" duration="2538000" />
+      <workItem from="1668019996997" duration="204000" />
+      <workItem from="1668020270152" duration="2484000" />
+      <workItem from="1668266083579" duration="1649000" />
+      <workItem from="1668333119536" duration="1787000" />
+      <workItem from="1669548563881" duration="1884000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
